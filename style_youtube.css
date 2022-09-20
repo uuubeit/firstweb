@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap");
+
+body{
+    background: #f1f1f1;
+    font-size: 16px;
+  font-family: "Comfortaa", cursive;
+    max-width: 600px;
+    margin: auto;
+}
+
+.back a{
+    
+ text-decoration: none;
+ color: black;
+ padding: 30px 25px;
+ background: rgb(204, 204, 204);
+  border-radius: 10px;
+}
+.back{
+    padding: 40px 20px;
+   
+}
+
+.contain{
+    display: flex;
+}
+    
+.youtube{
+    margin-top: 35px;;
+}
+
+.list ul{
+padding-left: 180px;
+}
+.list a{
+    color: #000;
+    text-decoration: none;
+}
+.list a:hover{
+    text-decoration: underline;
+}
